@@ -1,0 +1,19 @@
+.container {
+  max-width: 1170px;
+  margin: auto;
+  height: 1000px;
+}
+body{
+    background="img/background.jpg"
+}
+
+.logo{
+    width: 75px
+}
+
+.icons{
+    width: 33px
+}
+.text-for-logo{
+    color: #FFFFFF
+}
